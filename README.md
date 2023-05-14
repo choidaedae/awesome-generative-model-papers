@@ -1,1 +1,12 @@
+GAN Papers (Still Updating) 
 
+**1. BatchNorm** - [Read Here]([https://google.com](https://arxiv.org/abs/1502.03167), "google link")
+**2. GAN**(Generative Adverserial Network) - [Read Here]([https://google.com](https://arxiv.org/abs/1406.2661), "google link")
+**3. DCGAN**(Generative Adverserial Network) - [Read Here]([https://google.com](https://arxiv.org/abs/1406.2661), "google link")
+**4. ResNet**(Generative Adverserial Network) - [Read Here](https://google.com, "google link")
+**5. PGGAN**(Generative Adverserial Network) - [Read Here](https://google.com, "google link")
+**6. SAGAN**(Generative Adverserial Network) - [Read Here](https://google.com, "google link")
+**7. SNGAN**(Generative Adverserial Network) - [Read Here](https://google.com, "google link")
+**8. StyleGANv1**(Generative Adverserial Network) - [Read Here](https://google.com, "google link")
+**9. StyleGANv2**(Generative Adverserial Network) - [Read Here](https://google.com, "google link")
+**10. StyleGANv2+ADA**(Generative Adverserial Network) - [Read Here](https://google.com, "google link")
