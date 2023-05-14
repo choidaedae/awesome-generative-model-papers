@@ -1,5 +1,18 @@
-GAN Papers I read (Still Updating) 
+GAN_Papers 
 ====================
+
+What is GAN? 
+--------------
+_GAN stands for Generative Adversarial Network. It is a class of machine learning models that consist of two neural networks, namely the generator and the discriminator, which are trained in an adversarial manner._
+
+_The generator network takes random noise as input and attempts to generate synthetic data, such as images, audio, or text, that resembles real data from a given dataset. The discriminator network, on the other hand, acts as a classifier that distinguishes between real data and the synthetic data produced by the generator._
+
+_During training, the generator and discriminator networks are pitted against each other in a competitive game. The generator tries to produce increasingly realistic synthetic data to fool the discriminator, while the discriminator learns to better differentiate between real and fake data. The goal is for the generator to generate synthetic data that is indistinguishable from real data, according to the discriminator._
+
+_By training these networks in an adversarial manner, GANs have demonstrated remarkable capabilities in generating highly realistic and coherent samples in various domains. They have been successfully used for tasks such as image synthesis, video generation, text generation, style transfer, and more. GANs have significantly advanced the field of generative modeling and have led to numerous applications in art, entertainment, and data augmentation._  (By ChatGPT)
+
+GAN Papers I read (Still Updating) 
+-----------------
 
 **1. BatchNorm** (Batch Normalization) - [Read Here](https://arxiv.org/abs/1502.03167, "")
 
