@@ -1,4 +1,4 @@
-Generative_Model_Papers 
+awesome-generative-model-papers
 ====================
 
 What is GAN? 
