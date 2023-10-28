@@ -19,7 +19,7 @@ Deep Learning Mehtodologies
 
 **2. ResNet** (Deep Residual Learning for Image Recognition) - [Read Here](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-GAN Papers 
+GAN
 -----------------
 **1. GAN** (Generative Adverserial Network) - [Read Here](https://arxiv.org/abs/1406.2661)
 
@@ -38,7 +38,7 @@ GAN Papers
 **8. StyleGANv2+ADA** (Training Generative Adversarial Networks with Limited Data) - [Read Here](https://arxiv.org/abs/2006.06676)
 
 
-Diffusion Papers
+Diffusion Models
 -------
 **1. Deep Unsupervised Learning using Nonequilibrium Thermodynamics** - [Read Here](https://arxiv.org/abs/1503.03585)
 
@@ -54,7 +54,13 @@ Diffusion Papers
 
 **7. Wavelet Diffusion Models are fast and scalable Image Generators** - [Read Here](https://arxiv.org/abs/2211.16152)
 
-Diffusion + @ Papers
+Score-Based Models
+----
+**1. Generative Modeling by Estimating Gradients of the Data Distribution** - [Read Here] (https://arxiv.org/abs/1907.05600) 
+
+**2. Score-Based Generative Modeling through Stochastic Differential Equations** - [Read Here] (https://arxiv.org/abs/2011.13456)
+
+Diffusion + @ (Other Downstream vision tasks such as semantic segmentaiton, change detection, etc.)
 --- 
 **1. Remote Sensing Change Detection using Denoising Diffusion Probabilistic Models** - [Read Here](https://arxiv.org/abs/2206.11892)
 
