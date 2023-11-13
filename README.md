@@ -15,27 +15,29 @@ What is Diffusion Model?
 ----
 Deep Learning Mehtodologies
 -----
-**1. BatchNorm** (Batch Normalization) - [Read Here](https://arxiv.org/abs/1502.03167)
+**1. Batch Normalization** - [Read Here](https://arxiv.org/abs/1502.03167)
 
-**2. ResNet** (Deep Residual Learning for Image Recognition) - [Read Here](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**2. Deep Residual Learning for Image Recognition** - [Read Here](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**3 .Distilling the Knowledge in a Neural Network** - [Read Here](https://arxiv.org/abs/1502.03167)
 
 GAN
 -----------------
-**1. GAN** (Generative Adverserial Network) - [Read Here](https://arxiv.org/abs/1406.2661)
+**1. Generative Adverserial Network** - [Read Here](https://arxiv.org/abs/1406.2661)
 
-**2. DCGAN** (Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks) - [Read Here](https://arxiv.org/abs/1511.06434)
+**2. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** - [Read Here](https://arxiv.org/abs/1511.06434)
 
-**3. PGGAN** (Progressive Growing of GANs for Improved Quality, Stability, and Variation) - [Read Here](https://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of/karras2018iclr-paper.pdf)
+**3. Progressive Growing of GANs for Improved Quality, Stability, and Variation** - [Read Here](https://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of/karras2018iclr-paper.pdf)
 
-**4. SAGAN** (Self-Attention Generative Adversarial Networks) - [Read Here](https://arxiv.org/abs/1805.08318)
+**4. Self-Attention Generative Adversarial Networks** - [Read Here](https://arxiv.org/abs/1805.08318)
 
-**5. SNGAN** (Spectral Normalization for Generative Adversarial Networks) - [Read Here](https://arxiv.org/abs/1802.05957)
+**5. Spectral Normalization for Generative Adversarial Networks** - [Read Here](https://arxiv.org/abs/1802.05957)
 
-**6. StyleGANv1** (A Style-Based Generator Architecture for Generative Adversarial Networks) - [Read Here](https://arxiv.org/abs/1812.04948)
+**6. A Style-Based Generator Architecture for Generative Adversarial Networks** - [Read Here](https://arxiv.org/abs/1812.04948)
 
-**7. StyleGANv2** (Analyzing and Improving the Image Quality of StyleGAN) - [Read Here](https://arxiv.org/abs/1912.04958)
+**7. Analyzing and Improving the Image Quality of StyleGAN** - [Read Here](https://arxiv.org/abs/1912.04958)
 
-**8. StyleGANv2+ADA** (Training Generative Adversarial Networks with Limited Data) - [Read Here](https://arxiv.org/abs/2006.06676)
+**8. Training Generative Adversarial Networks with Limited Data** - [Read Here](https://arxiv.org/abs/2006.06676)
 
 
 Diffusion Models
@@ -54,11 +56,17 @@ Diffusion Models
 
 **7. Wavelet Diffusion Models are fast and scalable Image Generators** - [Read Here](https://arxiv.org/abs/2211.16152)
 
-Score-Based Models
-----
-**1. Generative Modeling by Estimating Gradients of the Data Distribution** - [Read Here] (https://arxiv.org/abs/1907.05600) 
+**8. Elucidating the Design Space of Diffusion-Based Generative Models** - [Read Here](https://arxiv.org/abs/2206.00364)
 
-**2. Score-Based Generative Modeling through Stochastic Differential Equations** - [Read Here] (https://arxiv.org/abs/2011.13456)
+Score-Based Models, Consistency Models 
+----
+**1. Generative Modeling by Estimating Gradients of the Data Distribution** - [Read Here](https://arxiv.org/abs/1907.05600) 
+
+**2. Score-Based Generative Modeling through Stochastic Differential Equations** - [Read Here](https://arxiv.org/abs/2011.13456)
+
+**3. Consistency Models** - [Read Here](https://arxiv.org/abs/2303.01469)
+
+**4. Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference** - [Read Here](https://arxiv.org/abs/2310.04378)
 
 Diffusion + @ (Other Downstream vision tasks such as semantic segmentaiton, change detection, etc.)
 --- 
@@ -71,3 +79,11 @@ Diffusion + @ (Other Downstream vision tasks such as semantic segmentaiton, chan
 **4. MedSegDiff: Medical Image Segmentation with Diffusion Model** - [Read Here](https://arxiv.org/abs/2301.11798)
 
 **5. MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer** - [Read Here](https://arxiv.org/abs/2301.11798)
+
+Image Editing 
+----
+**1. Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold** - [Read Here](https://arxiv.org/abs/2305.10973)
+
+**2. DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing** - [Read Here](https://arxiv.org/abs/2306.14435)
+
+**3. DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Modelsg** - [Read Here](https://arxiv.org/abs/2307.02421)
