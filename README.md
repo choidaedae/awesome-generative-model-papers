@@ -1,5 +1,6 @@
 awesome-generative-model-papers
 ====================
+- Generative Model Is All You Need.
 - I'm interested in Diffusion Model, GAN, and Neural ODE, and I'm also interested in image editing using it.
 - Below is a list of papers I've read in relation to the research field so far. Hope it helps you! Good Luck!
   
