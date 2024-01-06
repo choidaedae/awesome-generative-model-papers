@@ -1,6 +1,7 @@
 awesome-generative-model-papers
 ====================
-- Generative Model is AWESOME.
+- I'm interested in Diffusion Model, GAN, and Neural ODE, and I'm also interested in image editing using it.
+- Below is a list of papers I've read in relation to the research field so far. Hope it helps you! Good Luck!
   
 Deep Learning Mehtodologies
 -----
@@ -29,7 +30,7 @@ GAN
 **8. Training Generative Adversarial Networks with Limited Data** - [Read Here](https://arxiv.org/abs/2006.06676)
 
 
-Diffusion Models
+Diffusion Models, Text-to-image generation using Diffusion
 -------
 **1. Deep Unsupervised Learning using Nonequilibrium Thermodynamics** - [Read Here](https://arxiv.org/abs/1503.03585)
 
@@ -47,7 +48,9 @@ Diffusion Models
 
 **8. Elucidating the Design Space of Diffusion-Based Generative Models** - [Read Here](https://arxiv.org/abs/2206.00364)
 
-Score-Based Models, Consistency Models 
+**9. UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs** - [Read Here](https://arxiv.org/abs/2311.09257)
+
+Score-Based Models, Consistency Models, Neural ODE 
 ----
 **1. Generative Modeling by Estimating Gradients of the Data Distribution** - [Read Here](https://arxiv.org/abs/1907.05600) 
 
@@ -76,3 +79,13 @@ Image Editing
 **2. DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing** - [Read Here](https://arxiv.org/abs/2306.14435)
 
 **3. DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Modelsg** - [Read Here](https://arxiv.org/abs/2307.02421)
+
+**4. Emergent Correspondence from Image Diffusion** - [Read Here](https://arxiv.org/abs/2306.03881)
+
+**5. InstructPix2Pix: Learning to Follow Image Editing Instructions** - [Read Here](https://arxiv.org/abs/2306.03881)
+
+**6. Generative Image Dynamics** - [Read Here](https://arxiv.org/abs/2306.03881)
+
+**7.Readout Guidance: Learning Control from Diffusion Features** - [Read Here](https://arxiv.org/abs/2312.02150)
+
+**8. SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** - [Read Here](https://arxiv.org/abs/2108.01073)
